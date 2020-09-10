@@ -28,7 +28,7 @@
     "dotenv": "^5.0.1",
     "express": "^4.16.2",
     "morgan": "^1.9.0",
-    "node-fetch": "^1.7.3",
+    "node-fetch": "^2.6.1",
     "nodemon": "^1.12.1",
     "openweathermap-node": "^1.1.2",
     "request": "^2.83.0"
